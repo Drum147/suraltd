@@ -1,0 +1,8 @@
+h2.title i { padding-right: 0.5em; font-size: 1.25em; }
+p.save { width: 97%; text-align: right; }
+p.bigger { font-size: larger; font-weight: bold; }
+img.dashed-border { padding: 10px; border: 1px dashed silver; max-width: 100%; } 
+.diy-image-feed-widget-item { display: inline-block; vertical-align:top; padding: 10px; }
+.diy-image-feed-widget-item span img  { max-height : 240px; width: auto }
+.postbox-container .diy-image-feed-widget { text-align: center; }
+#footer-putter-intro	{ padding-right: 200px;background: url(../images/logo.png) right bottom no-repeat,  linear-gradient(to bottom, #FCFCFC,#EEEEEE); }

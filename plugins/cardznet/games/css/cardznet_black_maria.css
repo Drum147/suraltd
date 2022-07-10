@@ -1,0 +1,84 @@
+/* 
+Description: CardzNet Admin Style Sheet
+ 
+Copyright 2014 Malcolm Shergold
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+*/
+
+div#cardznet .page 
+{
+	min-height: 600px !important;
+	width: auto !important;
+}
+
+div#cardznet .playercards
+{
+	position: absolute;
+	left: 0px;
+	top: 60px;
+}
+
+div#cardznet .centrecards
+{
+	position: absolute;
+	left: 300px;
+	top: 230px;
+}
+
+div#cardznet .lasttrick-frame
+{
+	position: absolute;
+	
+	border: solid black 1px;
+	
+	left: 280px;
+	top: 400px;
+	height: 170px; 
+	width: 400px;
+}
+
+div#cardznet .lasttrick
+{
+	position: absolute;
+	left: 130px;
+	top: 20px;
+}
+
+div#cardznet .lastwinner
+{
+	position: absolute;
+	left: 30px;
+	top: 40px;
+	font-size: 14px;
+	font-style: italic;
+	color: white;
+}
+
+div#cardznet .tableview
+{
+	top: 400px;
+}
+
+div#cardznet .selectedcard
+{
+top: 20px !important;
+}
+
+div#cardznet .controls
+{
+	top: 100px !important;
+}

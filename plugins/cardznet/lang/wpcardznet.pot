@@ -1,0 +1,954 @@
+# Copyright (C) 2020 CardzNet
+# This file is distributed under the same license as the CardzNet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CardzNet 0.9.8\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wpcardznet\n"
+"POT-Creation-Date: 2020-11-21 10:40:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+
+#: admin\wpcardznet_manage_games.php:42 admin\wpcardznet_manage_groups.php:39
+#: include\mjslib_adminlist.php:100
+msgid "Details"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:47
+msgid "End Game"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:52 admin\wpcardznet_manage_groups.php:46
+msgid "Delete"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:266 wpcardznet.php:260
+msgid "Games"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:291
+msgid "Enter Settings for"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:352
+msgid "Setup a group first"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:353 include\wpcardznet_dbase_api.php:219
+msgid "here"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:376
+msgid "No Games"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:398
+msgid "Add Game"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:499 admin\wpcardznet_manage_games.php:508
+msgid "Game does not exist in Database"
+msgid_plural "Games do not exist in Database"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin\wpcardznet_manage_games.php:501
+msgid "Game has been deleted"
+msgid_plural "Games have been deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin\wpcardznet_manage_games.php:503
+#: admin\wpcardznet_manage_groups.php:799
+msgid "Nothing to Delete"
+msgstr ""
+
+#: admin\wpcardznet_manage_games.php:510
+msgid "Game has been ended"
+msgid_plural "Games have been ended"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin\wpcardznet_manage_games.php:512
+msgid "Nothing to End"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:94
+msgid "No Members"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:113
+msgid "Confirmed"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:125
+msgid "Invited"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:275
+msgid "Remove"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:310 wpcardznet.php:259
+msgid "Groups"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:348
+msgid "Group Name Already Exists"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:354
+msgid "Group Added"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:375
+msgid "You are not the group administrator"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:413
+msgid "User added to group"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:426
+msgid "Member Removed"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:450
+#: admin\wpcardznet_manage_groups.php:706
+msgid "Add Group"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:451 wpcardznet_translations.php:23
+msgid "Group Name"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:452 wpcardznet_translations.php:22
+msgid "Group Manager"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:494
+msgid "Permission to add User Denied"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:504
+#: admin\wpcardznet_manage_groups.php:618
+msgid "Invalid Group"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:509
+msgid "Add User"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:510
+msgid "User Login"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:535
+msgid "No users available to add"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:536
+msgid "Go back"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:568
+msgid "Permission to add Member Denied"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:571
+msgid "Send Invitation"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:572
+msgid "First Name"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:573
+msgid "Last Name"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:574
+msgid "EMail Address"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:625
+msgid "Invalid Name"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:631
+msgid "Invalid EMail"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:641
+msgid "Member is already in this group"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:662
+msgid "Invitation Sent"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:698
+msgid "No Groups"
+msgstr ""
+
+#: admin\wpcardznet_manage_groups.php:795
+msgid "Group does not exist in Database"
+msgid_plural "Groups do not exist in Database"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin\wpcardznet_manage_groups.php:797
+msgid "Group has been deleted"
+msgid_plural "Groups have been deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin\wpcardznet_manage_overview.php:77
+msgid "Create Sample"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:88
+msgid "Plugin Info"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:93
+msgid "Shortcodes"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:94
+msgid ""
+"CardzNet generates output to your Wordpress pages for the following "
+"shortcodes:"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:106
+msgid "Shortcode"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:107
+msgid "Description"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:113
+msgid "Outputs card table"
+msgstr ""
+
+#: admin\wpcardznet_manage_overview.php:117
+msgid "Outputs remote login form"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:99
+msgid "Player At Bottom"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:100
+msgid "Dealer At Bottom"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:101
+msgid "Admin At Bottom"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:105
+#: include\wpcardznet_dbase_api.php:903
+msgid "Always Visible"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:106
+msgid "When Hand Visible"
+msgstr ""
+
+#: admin\wpcardznet_manage_settings.php:107
+msgid "Always Hidden"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:70
+msgid "Tab Delimited Text"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:71
+msgid "OFX"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:82
+msgid "Filter"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:86 include\wpcardznet_dbase_api.php:2367
+#: include\wpcardznet_dbase_api.php:2420
+msgid "None"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:132 admin\wpcardznet_manage_tools.php:233
+#: admin\wpcardznet_manage_tools.php:248
+msgid "All"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:229 include\mjslib_table.php:205
+msgid "Show"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:244
+msgid "Performance"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:310
+msgid "Export"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:311
+msgid "Export to a \"TAB Separated Values\" format file on your computer."
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:312
+msgid ""
+"This format can be imported to many applications including spreadsheets and "
+"databases."
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:317
+msgid "Format"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:327
+msgid "Type"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:331 wpcardznet.php:264
+msgid "Settings"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:333
+msgid "Tickets"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:334
+msgid "Payments"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:335
+msgid "Sales Summary"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:346
+msgid "Download Export File"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:347
+msgid "Download Offline Validator"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:366
+msgid "Backup"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:375
+msgid "EMail Addresses"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:376
+msgid "Exclude User EMail Addresses"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:379
+msgid "DB Table Prefix"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:380
+msgid "Leave Blank to use default"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:388
+msgid "Export WPCardzNet Database"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:400
+msgid "EMail Test"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:427
+msgid " Sale Record Missing"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:449
+msgid "EMail Sent to"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:470
+msgid "Selected Sale"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:491
+msgid "Divert EMail To"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:502
+msgid "Bcc to Admin"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:504 admin\wpcardznet_manage_tools.php:513
+msgid "Enable"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:511
+msgid "Add Diagnostics"
+msgstr ""
+
+#: admin\wpcardznet_manage_tools.php:521
+msgid "EMail Sale"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:113
+msgid "Select a card to pass on to"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:116
+msgid "Waiting for other players!"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:144
+msgid "End of game score"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:195
+#: games\wpcardznet_one_eyed_jacks.php:414
+msgid "Invalid number of players"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:331
+msgid "Last Trick"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:332
+msgid "Winner"
+msgstr ""
+
+#: games\wpcardznet_black_maria.php:333
+msgid "Points"
+msgstr ""
+
+#: games\wpcardznet_hearts.php:153
+msgid "Pass Cards"
+msgstr ""
+
+#: games\wpcardznet_hearts.php:163
+msgid "Always Left"
+msgstr ""
+
+#: games\wpcardznet_hearts.php:164
+msgid "Left, Right, Opposite, None"
+msgstr ""
+
+#: games\wpcardznet_one_eyed_jacks.php:779
+msgid "Game COMPLETE"
+msgstr ""
+
+#: include\mjslib_admin.php:295
+msgid "Search Sales"
+msgstr ""
+
+#: include\mjslib_adminlist.php:478 include\mjslib_adminlist.php:766
+#: include\mjslib_adminlist.php:801
+msgid "Yes"
+msgstr ""
+
+#: include\mjslib_adminlist.php:478 include\mjslib_adminlist.php:766
+#: include\mjslib_adminlist.php:801
+msgid "No"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:469
+msgid "Session Debug Modes"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:487
+msgid "SSL over HTTP"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:1202
+msgid ""
+"WARNING: EMail Template contains one or mores lines with leading dots ('.')"
+msgstr ""
+
+#: include\mjslib_debug.php:178
+msgid "Enabled"
+msgstr ""
+
+#: include\mjslib_debug.php:178
+msgid "Disabled"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:58
+msgid "Settings have been saved"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:65
+msgid "Settings have NOT been saved."
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:123
+msgid "No Settings Configured"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:240
+msgid "Error parsing file."
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:262
+msgid "Error parsing HTML in file"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:310
+msgid "Save"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:311
+msgid "Cancel"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:319
+msgid "Subject"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:372
+msgid "Template not saved - Invalid Content"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:397
+msgid "Template Not Saved - Could not rename file."
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:445
+msgid "Template Updated."
+msgstr ""
+
+#: include\mjslib_table.php:206
+msgid "Hide"
+msgstr ""
+
+#: include\mjslib_table.php:663
+msgid "Bulk Actions"
+msgstr ""
+
+#: include\mjslib_table.php:673
+msgid "Apply"
+msgstr ""
+
+#: include\mjslib_table.php:868
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include\mjslib_table.php:884
+msgid "Go to the first page"
+msgstr ""
+
+#: include\mjslib_table.php:891
+msgid "Go to the previous page"
+msgstr ""
+
+#: include\mjslib_table.php:902
+msgid "Current page"
+msgstr ""
+
+#: include\mjslib_table.php:910
+msgid "of"
+msgstr ""
+
+#: include\mjslib_table.php:914
+msgid "Go to the next page"
+msgstr ""
+
+#: include\mjslib_table.php:921
+msgid "Go to the last page"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:180
+msgid "Timezone not set - Set it"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:180
+msgid "Here"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:184
+msgid "Plugin"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:185
+msgid "Version"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:186
+msgid "Timezone"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:218
+msgid "Review and Save settings first"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:902
+msgid "Normal"
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:904
+msgid "Never Visible "
+msgstr ""
+
+#: include\wpcardznet_dbase_api.php:2447
+msgid "All Groups"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:238
+msgid "Login"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:239
+msgid "Player Name"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:240 include\wpcardznet_tabletop.php:899
+#: wpcardznet_translations.php:38
+msgid "Player"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:241
+msgid "Visibility"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:242 wpcardznet_translations.php:36
+msgid "No of Players"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:247
+msgid "Players"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:250
+msgid "Number of Players"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:251
+msgid "Minimum"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:252
+msgid "Maximum"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:277
+msgid "Other Details"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:306
+msgid "Card Face"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:337
+msgid "Copy Game"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:338
+msgid "No Copy"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:393
+msgid "Login and Player Name must be unique"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:417
+msgid "Not enough players"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:451
+msgid "Game Added"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:499 wpcardznet.php:411
+msgid "Not currently in a game!"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:656
+msgid "Click Here or Press Space Bar to Turn Cards Over"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:804
+msgid "Game Complete"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:808
+msgid "You are the dealer"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:809
+msgid "Click Here or Press Enter to Deal the Cards"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:816
+msgid "Waiting for %s to deal"
+msgstr ""
+
+#: include\wpcardznet_tabletop.php:876
+msgid "Timed Out: Click to Restart"
+msgstr ""
+
+#: wpcardznet.php:258
+msgid "Overview"
+msgstr ""
+
+#: wpcardznet.php:262
+msgid "Tools"
+msgstr ""
+
+#: wpcardznet.php:280
+msgid "Dev TESTING"
+msgstr ""
+
+#: wpcardznet.php:298
+msgid "Lost Your Password?"
+msgstr ""
+
+#: wpcardznet.php:299
+msgid "Click Here!"
+msgstr ""
+
+#: wpcardznet.php:499
+msgid "Invitation Response"
+msgstr ""
+
+#: wpcardznet.php:568
+msgid "Invalid Request"
+msgstr ""
+
+#: wpcardznet.php:584 wpcardznet.php:613
+msgid "Invitation Accepted - Check your EMail for details"
+msgstr ""
+
+#: wpcardznet_translations.php:5
+msgid "Action"
+msgstr ""
+
+#: wpcardznet_translations.php:6
+msgid "Add Existing User"
+msgstr ""
+
+#: wpcardznet_translations.php:7
+msgid "Added to Group EMail"
+msgstr ""
+
+#: wpcardznet_translations.php:8
+msgid "Admin Items per Page"
+msgstr ""
+
+#: wpcardznet_translations.php:9
+msgid "Block EMail Send"
+msgstr ""
+
+#: wpcardznet_translations.php:10
+msgid "Comms"
+msgstr ""
+
+#: wpcardznet_translations.php:11
+msgid "Debug To Log"
+msgstr ""
+
+#: wpcardznet_translations.php:12
+msgid "Disable AJAX"
+msgstr ""
+
+#: wpcardznet_translations.php:13
+msgid "Disable JS/CSS Cache"
+msgstr ""
+
+#: wpcardznet_translations.php:14
+msgid "Disable Ticker"
+msgstr ""
+
+#: wpcardznet_translations.php:15
+msgid "EMail"
+msgstr ""
+
+#: wpcardznet_translations.php:16
+msgid "EMail Logo Image File"
+msgstr ""
+
+#: wpcardznet_translations.php:17
+msgid "Enable PHP Debug"
+msgstr ""
+
+#: wpcardznet_translations.php:18
+msgid "End Date"
+msgstr ""
+
+#: wpcardznet_translations.php:19
+msgid "End Score"
+msgstr ""
+
+#: wpcardznet_translations.php:20
+msgid "Game"
+msgstr ""
+
+#: wpcardznet_translations.php:21
+msgid "General"
+msgstr ""
+
+#: wpcardznet_translations.php:24
+msgid "Invitation EMail"
+msgstr ""
+
+#: wpcardznet_translations.php:25
+msgid "Invitation Time Limit "
+msgstr ""
+
+#: wpcardznet_translations.php:26
+msgid "Invite New Member"
+msgstr ""
+
+#: wpcardznet_translations.php:27
+msgid "Log EMail Msgs"
+msgstr ""
+
+#: wpcardznet_translations.php:28
+msgid "Log HTML"
+msgstr ""
+
+#: wpcardznet_translations.php:29
+msgid "Login Created EMail"
+msgstr ""
+
+#: wpcardznet_translations.php:30
+msgid "Logs Folder Path"
+msgstr ""
+
+#: wpcardznet_translations.php:31
+msgid "Manager"
+msgstr ""
+
+#: wpcardznet_translations.php:32
+msgid "Name"
+msgstr ""
+
+#: wpcardznet_translations.php:33
+msgid "Next Player Mimic Rotation"
+msgstr ""
+
+#: wpcardznet_translations.php:34
+msgid "Next Player Mimic Visibility"
+msgstr ""
+
+#: wpcardznet_translations.php:35
+msgid "No of Members"
+msgstr ""
+
+#: wpcardznet_translations.php:37
+msgid "Play Card"
+msgstr ""
+
+#: wpcardznet_translations.php:39
+msgid "Ready"
+msgstr ""
+
+#: wpcardznet_translations.php:40
+msgid "Refresh Time "
+msgstr ""
+
+#: wpcardznet_translations.php:41
+msgid "Reveal Cards"
+msgstr ""
+
+#: wpcardznet_translations.php:42
+msgid "Score"
+msgstr ""
+
+#: wpcardznet_translations.php:43
+msgid "Select Card"
+msgstr ""
+
+#: wpcardznet_translations.php:44
+msgid "Show Call Stack"
+msgstr ""
+
+#: wpcardznet_translations.php:45
+msgid "Show DB Output"
+msgstr ""
+
+#: wpcardznet_translations.php:46
+msgid "Show EMail Msgs"
+msgstr ""
+
+#: wpcardznet_translations.php:47
+msgid "Show GET Vars"
+msgstr ""
+
+#: wpcardznet_translations.php:48
+msgid "Show Memory Usage"
+msgstr ""
+
+#: wpcardznet_translations.php:49
+msgid "Show Misc Debug"
+msgstr ""
+
+#: wpcardznet_translations.php:50
+msgid "Show POST Vars"
+msgstr ""
+
+#: wpcardznet_translations.php:51
+msgid "Show Rerun Game"
+msgstr ""
+
+#: wpcardznet_translations.php:52
+msgid "Show SESSION Vars"
+msgstr ""
+
+#: wpcardznet_translations.php:53
+msgid "Show SQL"
+msgstr ""
+
+#: wpcardznet_translations.php:54
+msgid "Show Test Controls"
+msgstr ""
+
+#: wpcardznet_translations.php:55
+msgid "Sounds"
+msgstr ""
+
+#: wpcardznet_translations.php:56
+msgid "Start Date"
+msgstr ""
+
+#: wpcardznet_translations.php:57
+msgid "Status"
+msgstr ""
+
+#: wpcardznet_translations.php:58
+msgid "Timeout Time "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CardzNet"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.corondeck.co.uk/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Internet Connected Multiplayer Card Game"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Malcolm Shergold"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.corondeck.co.uk"
+msgstr ""

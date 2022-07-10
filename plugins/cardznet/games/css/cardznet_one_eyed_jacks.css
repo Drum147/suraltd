@@ -1,0 +1,120 @@
+/* 
+Description: CardzNet Admin Style Sheet
+ 
+Copyright 2014 Malcolm Shergold
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+*/
+
+div#cardznet .page 
+{
+	min-height: 700px !important;
+}
+
+div#cardznet .playercards 
+{
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+div#cardznet .centrecards
+{
+	position: absolute;
+	left: 300px;
+	top: 60px;
+}
+
+div#cardznet .tableview
+{
+	top: 500px;
+}
+
+div#cardznet .selectedcard
+{
+left: 40px !important;
+}
+
+div#cardznet .playedcard
+{
+left: 80px !important;
+}
+
+div#cardznet .spaceontable
+{
+}
+
+div#cardznet .counterdiv-colourA,
+div#cardznet .recent-colourA 
+{
+	background-color: #00FFFF;
+}
+
+div#cardznet .counterdiv-colourA.card-recent 
+{ 
+    border: solid 5px #FFA500;
+}
+
+div#cardznet .counterdiv-colourB,
+div#cardznet .recent-colourB
+{
+	background-color: #FF13FC;
+}	
+
+div#cardznet .counterdiv-colourB.card-recent 
+{ 
+    border: solid 5px #5bf807;
+}
+
+div#cardznet .counterdiv-colourC,
+div#cardznet .recent-colourC
+{
+	background-color: #FF4B13;
+}
+
+div#cardznet .counterdiv-colourC.card-recent 
+{ 
+    border: solid 5px #0143FF;
+}
+
+div#cardznet .info .counter
+{
+    margin-right: 20px;
+}
+
+div#cardznet .counter
+{
+	display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 1px black;
+    position: relative;
+    top: 10px;
+}
+
+div#cardznet .card-locked 
+{ 
+    border: solid 5px black;
+}
+
+div#cardznet .card-recent,
+div#cardznet .card-locked 
+{ 
+    width: 32px;
+    height: 32px;
+    border-radius: 26px;
+}

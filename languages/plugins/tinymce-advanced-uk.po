@@ -1,0 +1,438 @@
+# Translation of Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-07 20:21:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release)\n"
+
+#: tadv_admin.php:846
+msgid "Keep paragraph tags in the Classic block and the Classic Editor"
+msgstr "Зберігати позначки параграфів в класичному редакторі і класичному блоці"
+
+#: tinymce-advanced.php:927
+msgid "Clear formatting"
+msgstr "Чисте форматування"
+
+#: tadv_admin.php:964
+msgid "It is important that the exported file is not edited in any way."
+msgstr "Важливо ніяк не редагувати і не змінювати будь-яким способом цей файл."
+
+#. translators: URL to (localised) Advanced TinyMCE Configuration plugin.
+#: tadv_admin.php:950
+msgid "https://wordpress.org/plugins/advanced-tinymce-configuration/"
+msgstr "https://uk.wordpress.org/plugins/advanced-tinymce-configuration/"
+
+#: tadv_admin.php:938
+msgid "To keep the table more responsive please use percentage values when setting widths."
+msgstr "Для збереження адаптивності таблиць використовуйте процентні відносини при встановленні ширини."
+
+#: tadv_admin.php:932
+msgid "Show the advanced tabs in the table properties dialogs"
+msgstr "Показувати розширені таблиці в діалогах властивостей таблиць."
+
+#: tadv_admin.php:927
+msgid "When disabled, pressing the tab key will jump outside the editor area."
+msgstr "Якщо відключено, перехід по кнопці tab відбудеться за межі області редагування."
+
+#: tadv_admin.php:920
+msgid "If the grid is disabled the number of rows and columns can be typed in the Insert Table dialog."
+msgstr "Якщо сітка відключена, то число рядків і стовпців можна ввести в діалозі вставки таблиці."
+
+#: tadv_admin.php:910
+msgid "When inserting a table set the HTML border attribute to 1"
+msgstr "При вставці таблиці встановлюється розмір HTML межа в 1."
+
+#: tadv_admin.php:890
+msgid "Advanced options for tables"
+msgstr "Розширені параметри для таблиць"
+
+#. translators: URL to (localised) Classic Editor plugin.
+#: tadv_admin.php:834
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://uk.wordpress.org/plugins/classic-editor/"
+
+#: tadv_admin.php:795
+msgid "Add Classic Paragraph block"
+msgstr "Додати блок класичного параграфа"
+
+#: tadv_admin.php:585
+msgid "Toolbars for the Classic Editor"
+msgstr "Панелі інструментів класичного редактора"
+
+#: tadv_admin.php:174
+msgid "The Align Left, Align Center, Align Right, Bold, Italic, and Link buttons cannot be moved or arranged."
+msgstr "Кнопки, які не можуть бути переміщені або впорядковані: вирівнювати зліва, по центру, справа, жирний, курсив і кнопка посилання."
+
+#: tadv_admin.php:167
+msgid "Limitations for the Block Editor toolbar"
+msgstr "Обмеження панелі інструментів редактора блоків"
+
+#: tadv_admin.php:94
+msgid "Importing of settings failed. The imported file is invalid."
+msgstr "Сталася помилка під час імпорту налаштувань. Файл імпорту невірний."
+
+#: tadv_admin.php:91
+msgid "Importing of settings failed. The imported file is empty."
+msgstr "Сталася помилка під час імпорту налаштувань. Файл імпорту порожній."
+
+#: tadv_admin.php:88
+msgid "Importing of settings failed. Please import a valid settings file."
+msgstr "Сталася помилка під час імпорту налаштувань. Будь ласка, використовуйте правильний файл експорту налаштувань."
+
+#: tadv_admin.php:81 tadv_admin.php:99
+msgid "Settings imported successfully."
+msgstr "Налаштування успішно імпортовані."
+
+#: tadv_admin.php:60
+msgid "Import settings from string"
+msgstr "Імпорт налаштувань з рядка"
+
+#: tadv_admin.php:51
+msgid "Import settings"
+msgstr "Імпорт налаштувань"
+
+#: tadv_admin.php:49
+msgid "The settings are imported from a previously exported settings file."
+msgstr "Налаштування імпортовані з раніше експортованого файлу налаштувань."
+
+#: tinymce-advanced.php:935
+msgid "Text Background Color"
+msgstr "Колір фону тексту"
+
+#: tinymce-advanced.php:933
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: tinymce-advanced.php:931
+msgid "Underline"
+msgstr "Нижнє підкреслення"
+
+#: tinymce-advanced.php:930
+msgid "Mark"
+msgstr "Відмітка"
+
+#: tinymce-advanced.php:929
+msgid "Subscript"
+msgstr "Субскрипт"
+
+#: tinymce-advanced.php:928
+msgid "Superscript"
+msgstr "Суперскрипт"
+
+#: tinymce-advanced.php:897
+msgid "For use instead of the Paragraph Block. Supports transforming to and from multiple Paragraph blocks, Image, Table, List, Quote, Custom HTML, and most other blocks."
+msgstr "Для використання замість блоку абзацу. Підтримує перетворення в і з декількох блоків абзаців, зображення, таблиці, списку, цитати, спеціального HTML і більшості інших блоків."
+
+#: tadv_admin.php:984
+msgid "TinyMCE editors on the front end of the site"
+msgstr "редакторів TinyMCE на зовнішній частині сайту для відвідувачів"
+
+#: tadv_admin.php:980
+msgid "Other TinyMCE editors in wp-admin"
+msgstr "інших редакторів TinyMCE в wp-admin"
+
+#: tadv_admin.php:973
+msgid "Enable the TinyMCE editor enhancements for:"
+msgstr "Включити розширення редактора TinyMCE для:"
+
+#: tadv_admin.php:803
+msgid "In addition most default blocks can be transformed into classic paragraphs, and a Classic Paragraph can be converted to multiple blocks."
+msgstr "Крім того, більшість блоків за замовчуванням можна перетворити на класичні абзаци, а класичний абзац можна перетворити на декілька блоків."
+
+#: tadv_admin.php:757
+msgid "Append all buttons to the top toolbar in the Classic Paragraph and Classic blocks."
+msgstr "Додайте всі кнопки до верхньої панелі інструментів у блоках \"Класичний абзац\" та \"Класика\"."
+
+#: tadv_admin.php:419
+msgid "The toolbars in the Classic Paragraph and Classic blocks are narrower and show on focus."
+msgstr "Панелі інструментів у блоках Класичний абзац та Класичні вузькі та показуються на фокусі."
+
+#: tadv_admin.php:416
+msgid "Toolbars for the Classic Paragraph and Classic blocks"
+msgstr "Панелі інструментів для класичних абзаців і класичних блоків"
+
+#: tadv_admin.php:397
+msgid "Enable setting of selected text background color"
+msgstr "Включити налаштування кольору фону виділеного тексту"
+
+#: tadv_admin.php:392 tadv_admin.php:405
+msgid "No"
+msgstr "Ні"
+
+#: tadv_admin.php:388 tadv_admin.php:401
+msgid "Yes"
+msgstr "Так"
+
+#: tadv_admin.php:382
+msgid "Enable setting of selected text color"
+msgstr "Включити налаштування кольорів виділеного тексту"
+
+#: tinymce-advanced.php:936 tadv_admin.php:374
+msgid "Selected text background color"
+msgstr "Колір фону виділеного тексту"
+
+#: tinymce-advanced.php:934 tadv_admin.php:370
+msgid "Selected text color"
+msgstr "Колір виділеного тексту"
+
+#: tadv_admin.php:366
+msgid "Text color"
+msgstr "Колір тексту"
+
+#: tadv_admin.php:341
+msgid "Unused buttons for the blocks toolbars"
+msgstr "Невикористані кнопки для панелей інструментів блоків"
+
+#: tinymce-advanced.php:926 tadv_admin.php:312
+msgid "Formatting"
+msgstr "Форматування"
+
+#: tadv_admin.php:308
+msgid "(shown in the sidebar)"
+msgstr "(показується в бічній панелі)"
+
+#: tadv_admin.php:307
+msgid "Alternative side toolbar"
+msgstr "Альтернативна бічна панель інструментів"
+
+#: tadv_admin.php:163
+msgid "Main toolbar"
+msgstr "Основна панель інструментів"
+
+#: tadv_admin.php:153
+msgid "Toolbars for the Block Editor"
+msgstr "Панелі інструментів для редактора блоків"
+
+#: tadv_admin.php:148
+msgid "Classic Editor (TinyMCE)"
+msgstr "Класичний редактор (TinyMCE)"
+
+#: tadv_admin.php:143
+msgid "Block Editor (Gutenberg)"
+msgstr "Редактор блоків (Гутенберг)"
+
+#: tadv_admin.php:804
+msgid "It can be used everywhere instead of the Paragraph block including in columns, when creating reusable blocks, etc."
+msgstr "Можна використовувати всюди, замість блоку параграфа, включаючи колонки, при створенні блоків для повторного використання, і.т.д."
+
+#: tadv_admin.php:799
+msgid "Also, like the Classic block, most existing TinyMCE plugins and add-ons will continue to work."
+msgstr "Також як і для класичного блоку, більшість плагінів і доповнень до TinyMCE будуть продовжувати працювати."
+
+#: tadv_admin.php:798
+msgid "You can add multiple paragraphs, tables, galleries, embed video, set fonts and colors, and generally use everything that is available in the Classic Editor."
+msgstr "Можна додати декілька абзаців, таблиць, галерей, вставити відео, встановити шрифти та кольори, а також зазвичай використовувати все, що доступне в класичному редакторі."
+
+#: tinymce-advanced.php:895
+msgid "Classic Paragraph"
+msgstr "Класичний абзац"
+
+#: tadv_admin.php:880
+msgid "Disabled:"
+msgstr "Відключено:"
+
+#: tadv_admin.php:832
+msgid "If you prefer to use both editors side by side, do not enable this option. It is better to install the %1$sClassic Editor plugin%2$s."
+msgstr "Якщо ви вважаєте за краще використовувати обидва редакторів поруч, не вмикайте цю опцію. Краще встановити плагін%1$sClassic Editor%2$s."
+
+#: tadv_admin.php:827
+msgid "It will allow you to use other plugins that enhance that editor, add old-style Meta Boxes, or in some way depend on the previous Edit Post screen."
+msgstr "Це дозволить вам використовувати інші плагіни, які покращують цей редактор, додають старі Meta Box, або в певній мірі залежать від попереднього екрана Edit Post."
+
+#: tadv_admin.php:826
+msgid "Selecting this option will restore the previous (&#8220;classic&#8221;) editor and the previous Edit Post screen."
+msgstr "Вибір цього параметра відновить попередній (класичний) редактор і попередній екран редагування повідомлення."
+
+#: tadv_admin.php:824
+msgid "Replace the Block Editor with the Classic Editor"
+msgstr "Замініть редактор блоків на класичний редактор"
+
+#: tadv_admin.php:800
+msgid "This makes the Block Editor more familiar, easier to use, easier to get used to, and more compatible with your existing workflow."
+msgstr "Це робить редактор блоків більш звичним, легшим у використанні, легшим для звикання та більш сумісним з існуючим робочим процесом."
+
+#: tadv_admin.php:758
+msgid "This affects buttons that are added by other plugins. These buttons will be appended to the top toolbar row instead of forming second, third, and forth rows."
+msgstr "Це впливає на кнопки, додані іншими плагінами. Ці кнопки буде додано до верхньої рядки панелі інструментів замість формування другого, третього і четвертого рядків."
+
+#: tadv_admin.php:426
+msgid "Enable the editor menu (recommended)."
+msgstr "Увімкніть меню редактора (рекомендовано)."
+
+#: tadv_admin.php:421
+msgid "The buttons will wrap around depending on the width of the toolbar."
+msgstr "Кнопки обертаються в залежності від ширини панелі інструментів."
+
+#: tadv_admin.php:420
+msgid "For best results enable the menu and add only essential buttons."
+msgstr "Для досягнення найкращих результатів увімкніть меню та додайте лише необхідні кнопки."
+
+#: tadv_admin.php:536 tadv_admin.php:704
+msgid "Drop buttons in the toolbars, or drag the buttons to rearrange them."
+msgstr "Перетягніть кнопки на панелі інструментів або перетягніть кнопки, щоб змінити їх розташування."
+
+#: tadv_admin.php:784
+msgid "Replace the size setting available for fonts with: %s."
+msgstr "Замінити налаштування розміру доступні для шрифтів на: %s."
+
+#: tadv_admin.php:881
+msgid "A stylesheet file named editor-style.css was not added by your theme."
+msgstr "Файл таблиці стилів з ім'ям editor-style.css не додано вашою темою."
+
+#: tinymce-advanced.php:1338
+msgid "Settings"
+msgstr "Налаштування"
+
+#: tadv_admin.php:976
+msgid "The Classic Editor (Add New and Edit posts and pages)"
+msgstr "Класичний редактор (Додати та редагувати записи і сторінки)"
+
+#: tadv_admin.php:961
+msgid "Settings import and export"
+msgstr "Імпорт та експорт налаштувань"
+
+#: tadv_admin.php:871
+msgid "Create CSS classes menu"
+msgstr "Створення меню класів CSS"
+
+#: tadv_admin.php:783
+msgid "Font sizes"
+msgstr "Розміри шрифту"
+
+#: tadv_admin.php:778
+msgid "Open the TinyMCE link dialog when using the link button on the toolbar or the link menu item."
+msgstr "Відкривати діалог посилань TinyMCE при використанні кнопки посилань на панелі інструментів або з пункту меню."
+
+#: tadv_admin.php:777
+msgid "Alternative link dialog"
+msgstr "Альтернативний діалог посилань"
+
+#: tadv_admin.php:772
+msgid "Replace the browser context (right-click) menu."
+msgstr "Замінити в контекстному меню браузера (клацання правою кнопкою миші)."
+
+#: tadv_admin.php:765
+msgid "Enable more list options: upper or lower case letters for ordered lists, disk or square for unordered lists, etc."
+msgstr "Включити більше можливостей списків: верхній і нижній регістр букв для упорядкованих списків, диск або коло для неупорядкованих і.т.д."
+
+#: tadv_admin.php:753
+msgid "Options"
+msgstr "Параметри"
+
+#. Author URI of the plugin
+msgid "http://www.laptoptips.ca/"
+msgstr "http://www.laptoptips.ca/"
+
+#. Author of the plugin
+msgid "Andrew Ozz"
+msgstr "Andrew Ozz"
+
+#. Plugin URI of the plugin
+msgid "http://www.laptoptips.ca/projects/tinymce-advanced/"
+msgstr "http://www.laptoptips.ca/projects/tinymce-advanced/"
+
+#. Plugin Name of the plugin
+msgid "TinyMCE Advanced"
+msgstr "TinyMCE Advanced"
+
+#: tinymce-advanced.php:381
+msgid "Please upgrade your WordPress installation or download an <a href=\"%s\">older version of the plugin</a>."
+msgstr "Будь ласка, оновіть Ваш WordPress або завантажте <a href=\"%s\">стару версію плагіну</a>."
+
+#: tinymce-advanced.php:373
+msgid "TinyMCE Advanced requires WordPress version %1$s or newer. It appears that you are running %2$s. This can make the editor unstable."
+msgstr "Для роботи TinyMCE Advanced потрібен WordPress версії %1$s або вище. Схоже, що Ви працюєте на %2$s. Це може зробити роботу редактора нестійкою."
+
+#: tadv_admin.php:1003
+msgid "The [Toolbar toggle] button shows or hides the second, third, and forth button rows. It will only work when it is in the first row and there are buttons in the second row."
+msgstr "Кнопка [Панель перемикання] відображає/приховує другу, третю і четверту рядки кнопок. Вона буде працювати тільки тоді, коли вона знаходиться в першому рядку і є кнопки у другому рядку."
+
+#: tadv_admin.php:997
+msgid "Restore Default Settings"
+msgstr "Відновити налаштування за замовчуванням"
+
+#: tadv_admin.php:969
+msgid "Import Settings"
+msgstr "Імпорт налаштувань"
+
+#: tadv_admin.php:968
+msgid "Export Settings"
+msgstr "Експорт налаштувань"
+
+#: tadv_admin.php:959
+msgid "Administration"
+msgstr "Управління"
+
+#: tadv_admin.php:850
+msgid "However it may behave unexpectedly in rare cases, so test it thoroughly before enabling it permanently."
+msgstr "Однак в окремих випадках це може поводитися непередбачувано, тому ретельно перевірте його перед включенням на постійно."
+
+#: tadv_admin.php:873
+msgid "Load the CSS classes used in editor-style.css and replace the Formats menu."
+msgstr "Завантажити класи CSS, використовувані в editor-style.css і замінити меню Формати."
+
+#: tadv_admin.php:792
+msgid "Advanced Options"
+msgstr "Додаткові параметри"
+
+#: tadv_admin.php:771
+msgid "Context Menu"
+msgstr "Контекстне меню"
+
+#: tadv_admin.php:763
+msgid "List Style Options"
+msgstr "Список налаштувань стилів"
+
+#: tadv_admin.php:707
+msgid "Unused Buttons"
+msgstr "Невикористані кнопки"
+
+#: tadv_admin.php:590
+msgid "Enable the editor menu."
+msgstr "Ввімкнути меню редактора."
+
+#: tadv_admin.php:138 tadv_admin.php:998
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: tadv_admin.php:126
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: tadv_admin.php:119
+msgid "Editor Settings"
+msgstr "Налаштування редактора"
+
+#: tadv_admin.php:108
+msgid "ERROR: All toolbars are empty. Default settings loaded."
+msgstr "ПОМИЛКА: Всі панелі інструментів порожні. Завантажені налаштування за замовчуванням."
+
+#: tadv_admin.php:78
+msgid "Importing of settings failed."
+msgstr "Імпорт налаштувань не виконаний."
+
+#: tadv_admin.php:59
+msgid "Verify"
+msgstr "Перевірити"
+
+#: tadv_admin.php:45
+msgid "TinyMCE Advanced Settings Import"
+msgstr "Імпорт налаштувань TinyMCE Advanced"
+
+#: tadv_admin.php:65
+msgid "Back to Editor Settings"
+msgstr "Назад в налаштування редактора"
+
+#: tadv_admin.php:963
+msgid "The settings are exported as a JSON encoded file."
+msgstr "Налаштування експортується як закодований JSON файл."
+
+#: tadv_admin.php:38
+msgid "Default settings restored."
+msgstr "Налаштування за замовчуванням відновлені."
